@@ -1,0 +1,277 @@
+[
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es uno de los principales eventos históricos que se cubre en la Sala 3?",
+    "completion": "Uno de los principales eventos históricos que se cubre en la Sala 3 es la Batalla de Tarqui, ocurrida en 1829."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué otro conflicto importante del siglo XX se detalla en la Sala 3?",
+    "completion": "Otro conflicto importante del siglo XX que se detalla en la Sala 3 es la Guerra del Cenepa, que tuvo lugar en 1995 entre Ecuador y Perú."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Se aborda en la Sala 3 el proceso de Independencia de Ecuador?",
+    "completion": "Sí, la Sala 3 aborda el proceso de la Guerra de Independencia de Ecuador, incluyendo eventos significativos que llevaron a la emancipación del dominio español."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\nSobre la Batalla de Tarqui, ¿cuándo declaró Perú la guerra a la Gran Colombia según la información de esta sala?",
+    "completion": "Según la información histórica de la Sala 3, Perú declaró la guerra a la Gran Colombia el 20 de mayo de 1828, en el contexto que llevaría a la Batalla de Tarqui."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién era el presidente de Perú cuando se declaró la guerra a la Gran Colombia en 1828?",
+    "completion": "El presidente de Perú cuando se declaró la guerra a la Gran Colombia en mayo de 1828 era el Mariscal José de La Mar."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Se firmó algún armisticio entre Colombia y Perú antes de la Batalla de Tarqui?",
+    "completion": "Sí, el 20 de enero de 1829 se firmó un armisticio en Girón, Ecuador, entre la Gran Colombia y Perú, antes de que se reanudaran las hostilidades que culminaron en la Batalla de Tarqui."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quiénes fueron los firmantes del armisticio de Girón del 20 de enero de 1829?",
+    "completion": "El armisticio de Girón del 20 de enero de 1829 fue firmado por Antonio José de Sucre, representando a la Gran Colombia, y José de La Mar, representando al Perú."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\nReitérame la fecha exacta de la Batalla de Tarqui.",
+    "completion": "La Batalla de Tarqui se libró el 27 de febrero de 1829."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde exactamente se libró la Batalla de Tarqui?",
+    "completion": "La Batalla de Tarqui se libró en el Portete de Tarqui, una localidad cercana a la ciudad de Cuenca, en el actual Ecuador."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quiénes lideraron las fuerzas de la Gran Colombia en la Batalla de Tarqui según la información de esta sala?",
+    "completion": "Según la información disponible, las fuerzas de la Gran Colombia en la Batalla de Tarqui fueron lideradas principalmente por el Mariscal Antonio José de Sucre, con Juan José Flores como segundo al mando."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue el resultado militar de la Batalla de Tarqui?",
+    "completion": "El resultado militar de la Batalla de Tarqui fue una victoria para las tropas de la Gran Colombia, que derrotaron al ejército peruano."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué sucedió con las tropas peruanas después de la Batalla de Tarqui, específicamente en relación con Guayaquil?",
+    "completion": "Después de la Batalla de Tarqui y como consecuencia de la derrota, las tropas peruanas se retiraron, y el 20 de julio de 1829 se efectuó la entrega de Guayaquil a la Gran Colombia."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué tratado importante se firmó como consecuencia directa de la Batalla de Tarqui?",
+    "completion": "Como consecuencia directa de la Batalla de Tarqui, se firmó el Convenio de Girón (o Acuerdo de Girón) el 28 de febrero de 1829, que estipulaba la retirada de las tropas peruanas. Posteriormente, se firmó el Tratado de Guayaquil el 22 de septiembre de 1829 para formalizar la paz."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Podrías hablarme sobre el Tratado de Guayaquil de 1829?",
+    "completion": "El Tratado de Guayaquil, también conocido como Tratado Larrea-Gual, fue firmado el 22 de septiembre de 1829 entre la Gran Colombia y Perú. Este tratado puso fin formalmente a la Guerra Gran Colombo-Peruana, ratificó los límites basados en el uti possidetis juris de 1810 y estableció la amistad y alianza entre ambas naciones."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\nCambiando de tema, ¿cuándo ocurrió la Guerra del Cenepa?",
+    "completion": "La Guerra del Cenepa ocurrió principalmente entre enero y febrero de 1995."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué evento desencadenó la movilización de tropas en la Guerra del Cenepa el 24 de enero de 1995?",
+    "completion": "El 24 de enero de 1995, Perú movilizó sus tropas hacia la zona de frontera y la Fuerza Aérea Ecuatoriana (FAE) preparó su flota, marcando una escalada significativa que precedió a los enfrentamientos armados directos de la Guerra del Cenepa."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quiénes eran los presidentes de Ecuador y Perú durante la Guerra del Cenepa?",
+    "completion": "Durante la Guerra del Cenepa en 1995, el presidente de Ecuador era Sixto Durán-Ballén, y el presidente de Perú era Alberto Fujimori."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué acción tomó Ecuador el 25 de enero de 1995 en la zona de la Cordillera del Cóndor?",
+    "completion": "El 25 de enero de 1995, Ecuador militarizó la zona de la Cordillera del Cóndor, un área que incluía puestos como la Base Sur, en respuesta a la escalada de tensiones con Perú."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién estaba al mando de las operaciones ecuatorianas en la Guerra del Cenepa, como el General Paco Moncayo?",
+    "completion": "Sí, el General Paco Moncayo Gallegos fue una figura clave y el Comandante del Teatro de Operaciones Terrestre del ejército ecuatoriano durante la Guerra del Cenepa, reconocido por su liderazgo en la defensa del territorio."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué incidente ocurrió el 26 de enero de 1995 en la zona del río Cenepa?",
+    "completion": "El 26 de enero de 1995, una patrulla peruana fue atacada mientras, según fuentes ecuatorianas, construía un helipuerto en territorio ecuatoriano en la zona del río Cenepa. Este fue uno de los primeros enfrentamientos directos del conflicto."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué medidas tomaron ambos países el 27 de enero de 1995?",
+    "completion": "El 27 de enero de 1995, tanto Ecuador como Perú ordenaron el despliegue general de sus tropas en la zona fronteriza en disputa y a lo largo de la costa del Pacífico, intensificando la crisis militar."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuándo lanzó Perú su primer ataque terrestre significativo en el Cenepa?",
+    "completion": "Perú lanzó su primer ataque terrestre significativo contra posiciones ecuatorianas en la zona del Cenepa el 28 de enero de 1995."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué documento importante se firmó el 17 de febrero de 1995 en Brasil para detener las hostilidades del Cenepa?",
+    "completion": "El 17 de febrero de 1995 se firmó la Declaración de Paz de Itamaraty en Brasilia, Brasil. Este acuerdo buscaba poner fin a las hostilidades de la Guerra del Cenepa e iniciar un proceso de negociación."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quiénes participaron en la firma de la Declaración de Paz de Itamaraty?",
+    "completion": "En la firma de la Declaración de Paz de Itamaraty participaron los cancilleres de Ecuador y Perú, así como representantes de los países garantes del Protocolo de Río de Janeiro (Argentina, Brasil, Chile y Estados Unidos) y observadores de la ONU."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuándo se oficializó el alto al fuego en la Guerra del Cenepa?",
+    "completion": "El alto al fuego en la Guerra del Cenepa se oficializó el 28 de febrero de 1995, marcando el fin formal de las hostilidades armadas."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué organismo se encargó de supervisar el alto al fuego en la Guerra del Cenepa?",
+    "completion": "La Misión de Observadores Militares Ecuador-Perú (MOMEP), compuesta por militares de los países garantes, se encargó de supervisar el alto al fuego y la separación de fuerzas tras la Guerra del Cenepa."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué tratado definitivo puso fin al conflicto limítrofe entre Ecuador y Perú tras la Guerra del Cenepa?",
+    "completion": "El Acta Presidencial de Brasilia, firmada el 26 de octubre de 1998, fue el acuerdo que estableció la paz definitiva entre Ecuador y Perú, resolviendo el prolongado conflicto limítrofe."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quiénes fueron los presidentes que firmaron el Acta de Brasilia en 1998?",
+    "completion": "El Acta de Brasilia fue firmada en 1998 por el presidente de Ecuador, Jamil Mahuad, y el presidente de Perú, Alberto Fujimori, con la presencia de los representantes de los países garantes."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue el resultado principal de la Guerra del Cenepa para Ecuador en términos de defensa territorial?",
+    "completion": "Durante la Guerra del Cenepa, Ecuador defendió exitosamente sus posiciones en la zona del Alto Cenepa, manteniendo el control de facto sobre el área en disputa durante el conflicto, lo que fue percibido en el país como una victoria militar y moral."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué papel jugaron los países garantes en la resolución del conflicto del Cenepa?",
+    "completion": "Los países garantes del Protocolo de Río de Janeiro (Argentina, Brasil, Chile y Estados Unidos) jugaron un papel crucial en la resolución del conflicto del Cenepa, facilitando las negociaciones, supervisando el alto al fuego a través de la MOMEP y auspiciando los acuerdos de paz como la Declaración de Itamaraty y el Acta de Brasilia."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\nEnfocándonos en la Independencia de Ecuador, ¿qué evento se considera el 'Primer Grito de Independencia'?",
+    "completion": "El evento considerado como el 'Primer Grito de Independencia' en Ecuador (entonces la Real Audiencia de Quito) ocurrió el 10 de agosto de 1809 en Quito, cuando un grupo de criollos ilustrados depuso a las autoridades españolas y formó una Junta Soberana de Gobierno."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quiénes fueron algunos líderes del movimiento del 10 de Agosto de 1809?",
+    "completion": "Algunos líderes destacados del movimiento del 10 de Agosto de 1809 fueron Juan Pío Montúfar (Marqués de Selva Alegre), Juan de Dios Morales, Manuel Rodríguez de Quiroga, Juan de Salinas y José Riofrío, entre otros."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue el resultado inmediato del Primer Grito de Independencia de 1809?",
+    "completion": "El resultado inmediato del Primer Grito de Independencia de 1809 fue la formación de la Junta Soberana de Gobierno en Quito. Sin embargo, esta junta tuvo una corta duración, ya que las fuerzas realistas lograron reprimir el movimiento y restaurar el poder español al año siguiente, llevando a la masacre de muchos patriotas el 2 de agosto de 1810."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué evento marcó un nuevo impulso en la Guerra de Independencia de Ecuador después del fracaso de 1809-1810?",
+    "completion": "La Independencia de Guayaquil, proclamada el 9 de octubre de 1820, marcó un nuevo y decisivo impulso en la Guerra de Independencia de Ecuador. Este evento creó la Provincia Libre de Guayaquil, que se convirtió en un bastión patriota."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quiénes fueron los principales artífices de la Independencia de Guayaquil el 9 de octubre de 1820?",
+    "completion": "Los principales artífices de la Independencia de Guayaquil el 9 de octubre de 1820 incluyen a José Joaquín de Olmedo, León de Febres Cordero, José de Villamil, José de Antepara y Miguel de Letamendi, entre otros patriotas."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué batalla consolidó la independencia de los territorios que hoy son Ecuador?",
+    "completion": "La Batalla de Pichincha, librada el 24 de mayo de 1822 en las faldas del volcán Pichincha, cerca de Quito, consolidó la independencia de los territorios de la Real Audiencia de Quito, hoy Ecuador, del dominio español."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién comandó el ejército patriota en la Batalla de Pichincha?",
+    "completion": "El ejército patriota en la Batalla de Pichincha fue comandado por el General Antonio José de Sucre, enviado por Simón Bolívar."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué sucedió después de la Batalla de Pichincha con los territorios liberados?",
+    "completion": "Después de la Batalla de Pichincha, los territorios liberados de la Real Audiencia de Quito se incorporaron a la Gran Colombia, una república conformada también por los actuales Venezuela, Colombia y Panamá, bajo el liderazgo de Simón Bolívar."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Hubo otras batallas importantes en el proceso de independencia de Ecuador además de Pichincha?",
+    "completion": "Sí, hubo otras batallas importantes en el proceso de independencia de Ecuador, como la Batalla de Camino Real (9 de noviembre de 1820), las Batallas de Huachi (primera en 1820 y segunda en 1821), y la Batalla de Ibarra (17 de julio de 1823), donde Simón Bolívar en persona derrotó a las últimas fuerzas realistas en el norte."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue la importancia de la Batalla de Ibarra en 1823?",
+    "completion": "La Batalla de Ibarra, librada el 17 de julio de 1823 y comandada por Simón Bolívar, fue importante porque derrotó una sublevación realista en Pasto que amenazaba la estabilidad de los territorios recién liberados del sur de la Gran Colombia, consolidando así la independencia en la región norte del actual Ecuador."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué rol jugó Simón Bolívar en la independencia de Ecuador?",
+    "completion": "Simón Bolívar fue el máximo líder e ideólogo de la independencia de la Gran Colombia, de la cual Ecuador (Distrito del Sur) formó parte. Aunque no dirigió personalmente todas las batallas en territorio ecuatoriano, su visión estratégica, el envío de tropas y líderes como Sucre, y su participación directa en batallas como la de Ibarra, fueron cruciales para la emancipación."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué fue la Gran Colombia y cuánto tiempo duró la pertenencia de Ecuador a ella?",
+    "completion": "La Gran Colombia fue una república fundada por Simón Bolívar que unía a los actuales Ecuador, Colombia, Panamá y Venezuela. Ecuador (conocido como el Distrito del Sur) formó parte de la Gran Colombia desde su incorporación en 1822 hasta su separación en 1830, cuando se constituyó como república independiente."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién fue el primer presidente de la República del Ecuador tras su separación de la Gran Colombia?",
+    "completion": "El primer presidente de la República del Ecuador, tras su separación de la Gran Colombia en 1830, fue el General Juan José Flores."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué similitudes o diferencias fundamentales existen entre la Guerra Gran Colombo-Peruana (Tarqui) y la Guerra del Cenepa?",
+    "completion": "Una similitud fundamental es que ambas guerras fueron entre Ecuador (o la Gran Colombia, de la que Ecuador era parte) y Perú, y tuvieron como causa principal disputas territoriales. Las diferencias radican en el contexto histórico (siglo XIX vs. finales del siglo XX), el tipo de armamento y tácticas militares empleadas, y los mecanismos de resolución de conflictos, siendo el Cenepa resuelto con una activa participación de países garantes y un acuerdo de paz definitivo."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue el impacto a largo plazo del Acta de Brasilia de 1998?",
+    "completion": "El impacto a largo plazo del Acta de Brasilia de 1998 fue la consolidación de una paz duradera entre Ecuador y Perú, el cierre definitivo de la frontera terrestre común, y el fomento de la cooperación bilateral en diversas áreas, transformando una historia de conflictos en una de vecindad pacífica."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué rol jugó la diplomacia en la solución de los conflictos de Tarqui y Cenepa?",
+    "completion": "En Tarqui, la diplomacia llevó al Convenio de Girón y al Tratado de Guayaquil, buscando restablecer la paz aunque las tensiones persistieron. En Cenepa, la diplomacia fue mucho más efectiva y estructurada, con la intervención de países garantes que facilitaron la Declaración de Paz de Itamaraty y el Acta de Brasilia, logrando una solución definitiva y duradera."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Podría explicar brevemente las causas de la Guerra Gran Colombo-Peruana de 1828-1829?",
+    "completion": "Las causas principales de la Guerra Gran Colombo-Peruana incluyeron disputas territoriales sobre las provincias de Jaén y Maynas, que la Gran Colombia consideraba suyas por el uti possidetis de 1810, mientras Perú las reclamaba. También influyeron tensiones políticas, la deuda peruana a la Gran Colombia por la ayuda en la independencia, y la ocupación peruana de Guayaquil."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué era el 'uti possidetis juris de 1810' y cómo se relaciona con los conflictos entre Ecuador/Gran Colombia y Perú?",
+    "completion": "El 'uti possidetis juris de 1810' es un principio de derecho internacional que establece que las nuevas naciones independientes conservarían las fronteras que tenían como colonias al momento de su independencia (en este caso, 1810). Tanto la Gran Colombia como Perú invocaron este principio para reclamar territorios, pero sus interpretaciones sobre los límites de las antiguas divisiones administrativas españolas (virreinatos, audiencias) diferían, lo que fue una causa central de sus conflictos fronterizos."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué fue el Protocolo de Río de Janeiro de 1942 y cómo se relaciona con la Guerra del Cenepa?",
+    "completion": "El Protocolo de Paz, Amistad y Límites de Río de Janeiro de 1942 fue un tratado firmado entre Ecuador y Perú para resolver la guerra de 1941 y delimitar su frontera. Sin embargo, Ecuador posteriormente declaró inejecutable una parte del protocolo por problemas en la demarcación en la zona de la Cordillera del Cóndor, lo que dejó una sección de la frontera sin delimitar claramente, siendo esta una de las causas subyacentes de la Guerra del Cenepa en 1995."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué importancia tuvo la zona de Tiwintza durante la Guerra del Cenepa?",
+    "completion": "Tiwintza fue un puesto militar ecuatoriano en el Alto Cenepa que se convirtió en un símbolo de la resistencia ecuatoriana durante la Guerra del Cenepa. A pesar de los intensos ataques peruanos, las fuerzas ecuatorianas lograron defenderlo. En el Acta de Brasilia, se reconoció a Ecuador la propiedad privada de un kilómetro cuadrado donde se encuentra Tiwintza, aunque el territorio circundante quedó bajo soberanía peruana."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cómo afectaron estos conflictos militares (Tarqui, Independencia, Cenepa) a la identidad nacional ecuatoriana?",
+    "completion": "Estos conflictos militares han tenido un profundo impacto en la formación de la identidad nacional ecuatoriana. La Guerra de Independencia es fundacional, creando el estado-nación. La Batalla de Tarqui se considera un hito de defensa de la soberanía y unidad. La Guerra del Cenepa, más reciente, generó un fuerte sentimiento de unidad nacional y orgullo por la defensa del territorio, y su resolución pacífica marcó un antes y un después en las relaciones con Perú."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue el papel de la Fuerza Aérea Ecuatoriana (FAE) en la Guerra del Cenepa?",
+    "completion": "La Fuerza Aérea Ecuatoriana (FAE) desempeñó un papel crucial en la Guerra del Cenepa. Realizó misiones de combate aire-aire, logrando derribos de aeronaves peruanas, así como misiones de apoyo a las tropas terrestres, transporte y reconocimiento. Su actuación fue considerada fundamental para la defensa ecuatoriana."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué personaje histórico es conocido por su frase '¡Ni un paso atrás!' durante la Guerra del Cenepa?",
+    "completion": "La frase '¡Ni un paso atrás!' se asocia popularmente con el espíritu de resistencia ecuatoriano durante la Guerra del Cenepa y fue emblemática del liderazgo del entonces presidente Sixto Durán-Ballén y de las Fuerzas Armadas ecuatorianas."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\nAdemás de Paco Moncayo, ¿qué otros comandantes ecuatorianos fueron relevantes en la Guerra del Cenepa?",
+    "completion": "Además del General Paco Moncayo, otros comandantes ecuatorianos relevantes durante la Guerra del Cenepa incluyen al General Luis Aguas (Jefe de Estado Mayor del Ejército) y al Coronel Jorge Narváez (Comandante de la Brigada de Selva N.º 21 Cóndor), entre otros oficiales que lideraron operaciones en el terreno."
+  },
+  {
+    "sala": "3",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 3, que cubre eventos históricos clave como la Batalla de Tarqui, la Guerra del Cenepa, y la Guerra de Independencia de Ecuador, incluyendo fechas, líderes y tratados relevantes. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién era el comandante general del ejército peruano durante la Guerra del Cenepa?",
+    "completion": "Durante la Guerra del Cenepa, el Comandante General del Ejército Peruano y Jefe del Comando Conjunto de las Fuerzas Armadas del Perú era el General Nicolás de Bari Hermoza Ríos."
+  }
+]

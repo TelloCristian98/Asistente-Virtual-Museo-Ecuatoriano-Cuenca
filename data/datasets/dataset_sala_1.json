@@ -1,0 +1,802 @@
+[
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién fue el principal líder de la Gran Colombia en la Batalla de Tarqui?",
+    "completion": "El principal líder de las fuerzas de la Gran Colombia en la Batalla de Tarqui fue el Mariscal Antonio José de Sucre, quien se desempeñó como Comandante en Jefe."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue el nombre completo de Antonio José de Sucre?",
+    "completion": "El nombre completo de Antonio José de Sucre fue Antonio José Francisco de Sucre y Alcalá."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Con qué apodo es conocido Antonio José de Sucre?",
+    "completion": "Antonio José de Sucre es conocido con el apodo de 'Gran Mariscal de Ayacucho'."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿En qué año nació Antonio José de Sucre?",
+    "completion": "Antonio José de Sucre nació en el año 1795."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿En qué país nació Antonio José de Sucre?",
+    "completion": "Antonio José de Sucre nació en Cumaná, en ese entonces parte de la Capitanía General de Venezuela, actual Venezuela."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuándo murió Antonio José de Sucre?",
+    "completion": "Antonio José de Sucre murió el 4 de junio de 1830."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde falleció Antonio José de Sucre?",
+    "completion": "Antonio José de Sucre falleció asesinado en las montañas de Berruecos, en el sur de la actual Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué rango militar ostentaba Antonio José de Sucre?",
+    "completion": "Antonio José de Sucre ostentaba el rango de Gran Mariscal, específicamente Gran Mariscal de Ayacucho."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue el rol específico de Antonio José de Sucre en la Batalla de Tarqui?",
+    "completion": "En la Batalla de Tarqui, Antonio José de Sucre fue el Comandante en Jefe del ejército de la Gran Colombia, responsable de la estrategia y la organización de las tropas que lograron la victoria."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Puedes darme una breve biografía de Antonio José de Sucre enfocada en su relevancia para la Sala 1?",
+    "completion": "Antonio José de Sucre fue un militar y político venezolano, figura clave en la independencia de Sudamérica y estrecho colaborador de Simón Bolívar. Para la Sala 1, es fundamental por su liderazgo en la Batalla de Pichincha, que selló la independencia de Quito, y como Comandante en Jefe en la Batalla de Tarqui, donde defendió la soberanía de la Gran Colombia. Fue el primer presidente de Bolivia y es recordado por su brillantez militar y su integridad."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué relación tuvo Antonio José de Sucre con Simón Bolívar?",
+    "completion": "Antonio José de Sucre fue uno de los más leales y capaces lugartenientes de Simón Bolívar, compartiendo la visión de una América del Sur libre y unida. Bolívar le confió misiones cruciales y lo consideraba un estratega excepcional."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es la importancia de Antonio José de Sucre para la historia de la independencia de Ecuador?",
+    "completion": "La importancia de Antonio José de Sucre para la independencia de Ecuador es capital. Lideró el ejército patriota en la Batalla de Pichincha el 24 de mayo de 1822, victoria que consolidó la independencia de los territorios que hoy conforman Ecuador. Además, comandó las fuerzas en la Batalla de Tarqui en 1829, asegurando la integridad territorial de la Gran Colombia, de la cual Ecuador era parte."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Se exhibe alguna representación de Antonio José de Sucre en la Sala 1?",
+    "completion": "Sí, en la Sala 1 se exhibe una estatua de bronce de Antonio José de Sucre. Esta escultura lo representa con su sable desenvainado y fue creada por un artista ecuatoriano en 1900. Se encuentra ubicada en el centro de la sala."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué frase célebre de Antonio José de Sucre se menciona en relación con su figura en la Sala 1?",
+    "completion": "Una frase célebre atribuida a Antonio José de Sucre, y que se asocia a su figura en la Sala 1, es: 'La gloria está en ser grande y ser útil. Que nuestras acciones hablen por nosotros.'"
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién fue Juan José Flores?",
+    "completion": "Juan José Flores fue un militar y político de origen venezolano, que jugó un papel destacado en las guerras de independencia de Sudamérica y es considerado el fundador de la República del Ecuador, siendo su primer presidente."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue el nombre completo de Juan José Flores?",
+    "completion": "El nombre completo de Juan José Flores fue Juan José Flores y Aramburu."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Se conoce a Juan José Flores con algún apodo o título distintivo?",
+    "completion": "Sí, a Juan José Flores se le conoce como 'El Fundador de la República del Ecuador'."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿En qué año nació Juan José Flores?",
+    "completion": "Juan José Flores nació en el año 1800."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es el país de origen de Juan José Flores?",
+    "completion": "Juan José Flores nació en Puerto Cabello, en la actual Venezuela."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuándo falleció Juan José Flores?",
+    "completion": "Juan José Flores falleció el 1 de octubre de 1864."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde murió Juan José Flores?",
+    "completion": "Juan José Flores murió a bordo del vapor Tartar en la isla Puná, Ecuador, durante una expedición militar."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué rango militar alcanzó Juan José Flores?",
+    "completion": "Juan José Flores alcanzó el rango de General."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue la participación de Juan José Flores en la Batalla de Tarqui?",
+    "completion": "En la Batalla de Tarqui, Juan José Flores fue el segundo al mando del ejército de la Gran Colombia, bajo las órdenes de Sucre. Participó activamente en la planificación táctica y en la defensa territorial, siendo una figura clave para la victoria."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué papel jugó Juan José Flores en la fundación de Ecuador?",
+    "completion": "Juan José Flores fue una figura central en la fundación de Ecuador. Tras la disolución de la Gran Colombia en 1830, lideró el proceso de creación del Estado ecuatoriano y se convirtió en su primer presidente, sentando las bases de la nueva república."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuántas veces fue presidente Juan José Flores?",
+    "completion": "Juan José Flores fue presidente del Ecuador en tres periodos: 1830-1834, 1839-1843 y 1843-1845."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Hay alguna representación de Juan José Flores en la Sala 1?",
+    "completion": "Sí, en la Sala 1 se encuentra un panel informativo con un retrato de Juan José Flores, ubicado en la pared este. Este panel también incluye un facsímil de su firma."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué frase célebre de Juan José Flores se destaca en la Sala 1?",
+    "completion": "Una frase célebre de Juan José Flores que se destaca en la Sala 1 es: 'La libertad no se regala, se conquista con sacrificio. Ecuador nació de la lucha y la voluntad de su pueblo.'"
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién fue Simón Bolívar?",
+    "completion": "Simón Bolívar, conocido como 'El Libertador', fue un líder militar y político venezolano que desempeñó un papel fundamental en la independencia de varias naciones sudamericanas del Imperio Español, incluyendo los territorios que hoy conforman Ecuador. Fue el fundador de la Gran Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es el nombre completo de Simón Bolívar?",
+    "completion": "El nombre completo de Simón Bolívar es Simón José Antonio de la Santísima Trinidad Bolívar Palacios Ponte y Blanco."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿En qué año nació Simón Bolívar?",
+    "completion": "Simón Bolívar nació el 24 de julio de 1783."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde nació Simón Bolívar?",
+    "completion": "Simón Bolívar nació en Caracas, actual Venezuela."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuándo murió Simón Bolívar?",
+    "completion": "Simón Bolívar murió el 17 de diciembre de 1830."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde falleció Simón Bolívar?",
+    "completion": "Simón Bolívar falleció en la Quinta de San Pedro Alejandrino, en Santa Marta, actual Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue el rol de Simón Bolívar en la independencia de Ecuador?",
+    "completion": "Simón Bolívar fue el principal impulsor y estratega de la independencia de los territorios que conformarían la Gran Colombia, incluyendo el actual Ecuador. Aunque no comandó directamente en Pichincha, su visión y liderazgo fueron cruciales, y envió a Sucre para liderar la campaña libertadora. Su influencia fue determinante para la integración del Distrito del Sur (Ecuador) a la Gran Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué fue la Gran Colombia y qué relación tuvo Bolívar con ella?",
+    "completion": "La Gran Colombia fue una república creada en 1819 por el congreso de Angostura, y consolidada en 1821, que unió los territorios de Venezuela, Nueva Granada (actual Colombia y Panamá) y el Distrito del Sur (actual Ecuador). Simón Bolívar fue su principal ideólogo y primer presidente, soñando con una gran nación sudamericana unida y fuerte."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Estuvo Simón Bolívar directamente involucrado en la Batalla de Tarqui?",
+    "completion": "Aunque Simón Bolívar no estuvo presente físicamente en el campo de batalla de Tarqui, como presidente de la Gran Colombia y líder máximo del ejército, siguió de cerca los acontecimientos y dio directrices generales. La defensa del territorio grancolombiano estaba bajo su responsabilidad última, y Sucre actuaba en su nombre."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Hay alguna representación de Simón Bolívar en la Sala 1?",
+    "completion": "Sí, en la Sala 1 se exhibe un retrato al óleo de Simón Bolívar. Esta pintura, realizada por un artista anónimo en 1825, muestra a Bolívar con su uniforme de gala y se encuentra en la pared norte, cerca de la entrada."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué frase célebre de Simón Bolívar se recuerda en la Sala 1?",
+    "completion": "Una frase célebre de Simón Bolívar que se recuerda en la Sala 1 es: 'Mi alma está más herida por las divisiones que por las guerras. La unidad es la única esperanza de América.'"
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué fue la Batalla de Tarqui?",
+    "completion": "La Batalla de Tarqui fue un enfrentamiento bélico ocurrido el 27 de febrero de 1829 entre las fuerzas de la Gran Colombia, comandadas por Antonio José de Sucre, y las del Perú, lideradas por José de La Mar. Se libró en los campos de Tarqui, cerca de Cuenca, Ecuador."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuándo se libró la Batalla de Tarqui?",
+    "completion": "La Batalla de Tarqui se libró el 27 de febrero de 1829."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde tuvo lugar la Batalla de Tarqui?",
+    "completion": "La Batalla de Tarqui tuvo lugar en los campos de Tarqui, específicamente en el Portete de Tarqui, una zona cercana a la ciudad de Cuenca, en el actual Ecuador."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuáles fueron los bandos enfrentados en la Batalla de Tarqui?",
+    "completion": "Los bandos enfrentados en la Batalla de Tarqui fueron el ejército de la Gran Colombia y el ejército del Perú."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién comandaba las fuerzas de la Gran Colombia en Tarqui?",
+    "completion": "Las fuerzas de la Gran Colombia en la Batalla de Tarqui estaban comandadas por el Mariscal Antonio José de Sucre, con Juan José Flores como segundo al mando."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién lideraba al ejército peruano en la Batalla de Tarqui?",
+    "completion": "El ejército peruano en la Batalla de Tarqui estaba liderado por el Presidente del Perú, el Mariscal José de La Mar, con el General Agustín Gamarra como uno de sus principales comandantes de campo."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue el resultado de la Batalla de Tarqui?",
+    "completion": "El resultado de la Batalla de Tarqui fue una victoria decisiva para las fuerzas de la Gran Colombia. El ejército peruano fue derrotado y obligado a retirarse."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue la principal consecuencia de la Batalla de Tarqui?",
+    "completion": "La principal consecuencia de la Batalla de Tarqui fue la firma del Acuerdo de Girón al día siguiente, que estipulaba la retirada de las tropas peruanas del territorio de la Gran Colombia y sentó las bases para el posterior Tratado de Guayaquil, que buscaba una paz duradera. La batalla reafirmó la soberanía de la Gran Colombia sobre los territorios en disputa."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿En qué contexto histórico mayor se enmarca la Batalla de Tarqui?",
+    "completion": "La Batalla de Tarqui se enmarca en el contexto de la Guerra Gran Colombo-Peruana (1828-1829), un conflicto surgido por disputas territoriales y políticas entre ambas naciones tras la independencia de España."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Por qué es importante la Batalla de Tarqui para la historia de Ecuador?",
+    "completion": "La Batalla de Tarqui es sumamente importante para la historia de Ecuador porque consolidó la soberanía del territorio que entonces formaba parte del Distrito del Sur de la Gran Colombia. Fue una demostración de la capacidad militar para defender la integridad territorial y es considerada un símbolo de unidad y valentía."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué evento histórico se conmemora en Ecuador el 27 de febrero?",
+    "completion": "El 27 de febrero se conmemora en Ecuador el Día del Ejército Ecuatoriano, el Día del Civismo y la Unidad Nacional, en recuerdo de la Batalla de Tarqui."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué fue la Independencia de Guayaquil?",
+    "completion": "La Independencia de Guayaquil fue un evento crucial ocurrido el 9 de octubre de 1820, cuando un grupo de patriotas guayaquileños, liderados por figuras como José Joaquín de Olmedo, León de Febres Cordero y José de Villamil, proclamaron la independencia de la ciudad de Guayaquil del dominio español. Este acto creó la Provincia Libre de Guayaquil, que fue un paso fundamental hacia la independencia total del actual Ecuador."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuándo ocurrió la Independencia de Guayaquil?",
+    "completion": "La Independencia de Guayaquil ocurrió el 9 de octubre de 1820."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quiénes fueron algunos de los líderes de la Independencia de Guayaquil?",
+    "completion": "Algunos de los líderes destacados de la Independencia de Guayaquil fueron José Joaquín de Olmedo, León de Febres Cordero, José de Antepara, José de Villamil y Miguel de Letamendi, entre otros patriotas civiles y militares."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue la importancia de la Independencia de Guayaquil para el proceso independentista de Ecuador?",
+    "completion": "La Independencia de Guayaquil fue de vital importancia porque no solo liberó un puerto estratégico, sino que también sirvió como catalizador y punto de apoyo para las campañas militares posteriores que culminarían con la liberación de Quito y la consolidación de la independencia de todo el territorio de la Real Audiencia de Quito, actual Ecuador."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué fue la Batalla de Pichincha?",
+    "completion": "La Batalla de Pichincha fue un enfrentamiento militar ocurrido el 24 de mayo de 1822 en las faldas del volcán Pichincha, cerca de Quito. En esta batalla, el ejército patriota de la Gran Colombia, comandado por Antonio José de Sucre, derrotó a las fuerzas realistas, sellando la independencia de Quito y de los territorios de la Real Audiencia de Quito."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuándo se libró la Batalla de Pichincha?",
+    "completion": "La Batalla de Pichincha se libró el 24 de mayo de 1822."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde tuvo lugar la Batalla de Pichincha?",
+    "completion": "La Batalla de Pichincha tuvo lugar en las faldas del volcán Pichincha, en las inmediaciones de la ciudad de Quito, actual capital de Ecuador."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién comandó las fuerzas patriotas en la Batalla de Pichincha?",
+    "completion": "Las fuerzas patriotas en la Batalla de Pichincha fueron comandadas por el General Antonio José de Sucre, enviado por Simón Bolívar."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue el resultado de la Batalla de Pichincha?",
+    "completion": "El resultado de la Batalla de Pichincha fue una victoria decisiva para el ejército patriota. Esta victoria aseguró la capitulación de las fuerzas realistas y la liberación de Quito."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué significó la Batalla de Pichincha para la independencia de Ecuador?",
+    "completion": "La Batalla de Pichincha fue el evento culminante que selló la independencia de Quito y de los territorios que conformaban la Real Audiencia de Quito, hoy Ecuador, del dominio español. Permitió la posterior anexión de estos territorios a la Gran Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué fue la integración de Ecuador a la Gran Colombia?",
+    "completion": "Tras la Batalla de Pichincha en 1822, los territorios de la antigua Real Audiencia de Quito, conocidos como el Distrito del Sur, se integraron formalmente a la República de la Gran Colombia, un estado creado por Simón Bolívar que también incluía a Venezuela y Nueva Granada (actual Colombia y Panamá). Esta unión duró hasta 1830."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿En qué año se integró Ecuador a la Gran Colombia?",
+    "completion": "Ecuador, o más precisamente los territorios de la antigua Real Audiencia de Quito, se integraron a la Gran Colombia en 1822, después de la Batalla de Pichincha."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Hasta cuándo formó Ecuador parte de la Gran Colombia?",
+    "completion": "Ecuador formó parte de la Gran Colombia hasta el año 1830, cuando se separó para constituirse como una república independiente bajo el liderazgo de Juan José Flores."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué es la Carta durante la Campaña de Tarqui exhibida en la Sala 1?",
+    "completion": "La Carta durante la Campaña de Tarqui es un documento histórico de 1829, escrito por Antonio José de Sucre en Cuenca. Es una carta manuscrita donde Sucre expone su pensamiento militar y político, defiende la soberanía de la Gran Colombia, detalla estrategias y muestra su preocupación por la disciplina y el respeto a la población civil. Es una fuente primaria clave para entender las tácticas de la época."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién escribió la Carta durante la Campaña de Tarqui?",
+    "completion": "La Carta durante la Campaña de Tarqui fue escrita por el Mariscal Antonio José de Sucre."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿En qué año se escribió la Carta durante la Campaña de Tarqui?",
+    "completion": "La Carta durante la Campaña de Tarqui se escribió en el año 1829."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde se encuentra exhibida la Carta durante la Campaña de Tarqui en la Sala 1?",
+    "completion": "La Carta durante la Campaña de Tarqui está exhibida en la Vitrina 1, ubicada en la pared oeste de la Sala 1. Está iluminada con luz tenue para proteger el papel."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es el estado de conservación de la Carta durante la Campaña de Tarqui?",
+    "completion": "La Carta durante la Campaña de Tarqui que se exhibe es un original, restaurado en 1990 con técnicas de conservación de papel."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué temas principales aborda Sucre en la Carta durante la Campaña de Tarqui?",
+    "completion": "En la Carta durante la Campaña de Tarqui, Sucre aborda temas como la defensa de la soberanía de la Gran Colombia, estrategias militares como la formación en cuadro, la importancia de la disciplina de las tropas y la necesidad de proteger a la población civil evitando saqueos."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Hay alguna transcripción parcial de la Carta durante la Campaña de Tarqui disponible?",
+    "completion": "Sí, una transcripción parcial de la Carta durante la Campaña de Tarqui incluye la frase: 'La disciplina será nuestra mayor fuerza; sin ella, somos un ejército sin alma. Debemos proteger a los civiles, pues ellos son la razón de nuestra lucha.'"
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es el dato curioso sobre la Carta durante la Campaña de Tarqui?",
+    "completion": "Un dato curioso sobre la Carta durante la Campaña de Tarqui es que fue encontrada en una caja fuerte en 1905, junto con monedas de la época y un sello de la Gran Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué es el Acuerdo de Girón que se menciona en la Sala 1?",
+    "completion": "El Acuerdo de Girón es un tratado firmado el 28 de febrero de 1829, un día después de la Batalla de Tarqui, entre Antonio José de Sucre por la Gran Colombia y José de La Mar por el Perú. Estableció un armisticio temporal y la retirada de las tropas peruanas."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quiénes firmaron el Acuerdo de Girón?",
+    "completion": "El Acuerdo de Girón fue firmado por el Mariscal Antonio José de Sucre, en representación de la Gran Colombia, y el Mariscal José de La Mar, en representación del Perú."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿En qué fecha se firmó el Acuerdo de Girón?",
+    "completion": "El Acuerdo de Girón se firmó el 28 de febrero de 1829. Aunque tu ejemplo dice 27, la fecha más comúnmente aceptada para la firma del Convenio de Girón es el 28 de febrero, y el Tratado de Girón (preliminar) también el 28. La batalla fue el 27."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde se exhibe información sobre el Acuerdo de Girón en la Sala 1?",
+    "completion": "La información sobre el Acuerdo de Girón, posiblemente un facsímil del documento, se exhibe en la Vitrina 2, en la pared este de la Sala 1, junto a un mapa de la región."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es el estado de conservación del Acuerdo de Girón exhibido?",
+    "completion": "El Acuerdo de Girón exhibido en la Sala 1 es un facsímil, ya que el original se encuentra en el Archivo Nacional de Ecuador."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué establecía principalmente el Acuerdo de Girón?",
+    "completion": "El Acuerdo de Girón establecía un armisticio temporal, obligando a las tropas peruanas a retirarse del territorio de Gran Colombia, específicamente al sur del río Macará, y disponía la desocupación del puerto de Guayaquil por parte de Perú. Fue un paso hacia el Tratado de Guayaquil firmado meses después."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Se conoce alguna cita del Acuerdo de Girón?",
+    "completion": "Sí, una transcripción parcial del Acuerdo de Girón que se menciona es: 'Ambas partes acuerdan cesar las hostilidades y retirar las tropas al sur del río Macará, preservando la paz en la región.'"
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es el dato curioso relacionado con el Acuerdo de Girón?",
+    "completion": "Un dato curioso sobre el Acuerdo de Girón es que, según la tradición, fue firmado bajo un árbol de guayacán en la localidad de Girón, árbol que aún existe y es considerado un monumento histórico."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\nDescríbeme el Uniforme de Granadero de Tarqui que se exhibe en la Sala 1.",
+    "completion": "El Uniforme de Granadero de Tarqui, de la época de Independencia (circa 1829), es de color azul con cuello y puños rojos, botones dorados y charreteras decorativas. Incluye un cinturón de cuero con hebilla de latón y un gorro alto de piel con una placa metálica con el escudo de la Gran Colombia. Está hecho de lana, cuero, metal y piel, y simboliza la lealtad y el espíritu de lucha de las tropas."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué simboliza el color azul del Uniforme de Granadero de Tarqui?",
+    "completion": "El color azul del Uniforme de Granadero de Tarqui simbolizaba la lealtad a la causa independentista y a la Gran Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿De qué materiales está hecho principalmente el Uniforme de Granadero de Tarqui?",
+    "completion": "El Uniforme de Granadero de Tarqui está hecho principalmente de lana para la chaqueta y el pantalón, cuero para el cinturón y las botas (aunque las botas no se mencionan explícitamente en tu ejemplo, son típicas), metal para los botones y la placa del gorro, y piel para el gorro."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde se exhibe el Uniforme de Granadero de Tarqui en la Sala 1?",
+    "completion": "El Uniforme de Granadero de Tarqui se exhibe en un maniquí en el centro de la Sala 1, acompañado de una placa explicativa y una bandera de la Gran Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Hay alguna anécdota relacionada con el Uniforme de Granadero de Tarqui?",
+    "completion": "Sí, se cuenta que el Uniforme de Granadero de Tarqui exhibido fue usado por un granadero que sobrevivió a un ataque sorpresa en la colina oeste de Tarqui, según relatos de la época."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué es el Informe de la Batalla de Tarqui presente en la Sala 1?",
+    "completion": "El Informe de la Batalla de Tarqui es un documento histórico de 1829, escrito por Juan José Flores tras la victoria en Tarqui. Describe las maniobras militares, elogia la valentía de los soldados, menciona la captura de oficiales peruanos y reflexiona sobre la necesidad de negociar la paz. Fue enviado a Bolívar."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién escribió el Informe de la Batalla de Tarqui?",
+    "completion": "El Informe de la Batalla de Tarqui fue escrito por el General Juan José Flores."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde se puede encontrar el Informe de la Batalla de Tarqui en la Sala 1?",
+    "completion": "El Informe de la Batalla de Tarqui se exhibe en la Vitrina 3, en la pared sur de la Sala 1, junto a un sable ceremonial."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es el estado de conservación del Informe de la Batalla de Tarqui exhibido?",
+    "completion": "El Informe de la Batalla de Tarqui exhibido es el original, y presenta bordes desgastados y algunas manchas de tinta."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué cita del Informe de la Batalla de Tarqui se destaca?",
+    "completion": "Una cita destacada del Informe de la Batalla de Tarqui, escrita por Flores, es: 'El enemigo huyó en desbandada, pero nuestra victoria no debe cegarnos: debemos prepararnos para la paz y no para más guerras.'"
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué dato curioso se conoce sobre el Informe de la Batalla de Tarqui?",
+    "completion": "Un dato curioso sobre el Informe de la Batalla de Tarqui es que Juan José Flores lo escribió a caballo, minutos después de la batalla y bajo la lluvia, lo que podría explicar las manchas de agua o tinta en el papel."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué es el Croquis de la Batalla de Tarqui que se muestra en la Sala 1?",
+    "completion": "El Croquis de la Batalla de Tarqui es un mapa dibujado a mano en 1829, atribuido a un cartógrafo militar. Muestra las posiciones de las tropas ecuatorianas y peruanas, anotaciones sobre movimientos y puntos clave del terreno. Fue usado para planificar tácticas."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cómo se exhibe el Croquis de la Batalla de Tarqui en la Sala 1?",
+    "completion": "El Croquis de la Batalla de Tarqui se exhibe en un panel interactivo en la pared norte de la Sala 1. Este panel cuenta con una lupa digital para que los visitantes puedan observar los detalles del mapa."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es el estado de conservación del Croquis de la Batalla de Tarqui?",
+    "completion": "El Croquis de la Batalla de Tarqui que se exhibe es el original. Presenta colores desvaídos debido al tiempo, pero aún es legible."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué tipo de información contiene el Croquis de la Batalla de Tarqui?",
+    "completion": "El Croquis de la Batalla de Tarqui contiene información sobre las posiciones de las tropas de la Gran Colombia y del Perú, anotaciones sobre los movimientos de infantería y caballería, y la ubicación de puntos clave del terreno como colinas y ríos. Destaca la colina oeste, donde los granaderos resistieron un ataque peruano."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Hay alguna anotación específica que se pueda leer en el Croquis de la Batalla de Tarqui?",
+    "completion": "Sí, en el Croquis de la Batalla de Tarqui se pueden leer anotaciones como: 'Colina oeste: posición de los granaderos; río Tarqui: flanco derecho enemigo vulnerable.'"
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es el dato curioso asociado al Croquis de la Batalla de Tarqui?",
+    "completion": "Un dato curioso asociado al Croquis de la Batalla de Tarqui es que fue descubierto en 1920 dentro de un libro de tácticas militares en una biblioteca de Quito."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué es la Proclama de Bolívar a las Tropas que se encuentra en la Sala 1?",
+    "completion": "La Proclama de Bolívar a las Tropas es un documento histórico de 1829, emitido por Simón Bolívar en Quito antes de la Batalla de Tarqui. En ella, Bolívar motiva a los soldados de la Gran Colombia, recordándoles que luchan por la libertad y la unidad, y menciona la importancia de Guayaquil. Fue leída a las tropas antes del enfrentamiento."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién emitió la Proclama a las Tropas antes de Tarqui?",
+    "completion": "La Proclama a las Tropas antes de la Batalla de Tarqui fue emitida por el Libertador Simón Bolívar."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde se exhibe la Proclama de Bolívar a las Tropas en la Sala 1?",
+    "completion": "La Proclama de Bolívar a las Tropas se exhibe en el panel central de la Sala 1, acompañada de un grabado de Simón Bolívar."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Es original la Proclama de Bolívar a las Tropas exhibida?",
+    "completion": "No, la Proclama de Bolívar a las Tropas que se exhibe en la Sala 1 es un facsímil. El documento original se encuentra en el Archivo Nacional de Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué mensaje principal transmitía la Proclama de Bolívar a las Tropas?",
+    "completion": "El mensaje principal de la Proclama de Bolívar era motivar a los soldados de la Gran Colombia, instándolos a luchar por la libertad y la unidad de la patria frente a la agresión peruana, y resaltando la importancia estratégica de Guayaquil."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Hay alguna cita de la Proclama de Bolívar a las Tropas que se recuerde?",
+    "completion": "Sí, una cita recordada de la Proclama de Bolívar a las Tropas es: 'Soldados de la Gran Colombia: ¡vuestra valentía decidirá el destino de nuestra patria! Guayaquil no caerá en manos enemigas.'"
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es el dato curioso sobre la Proclama de Bolívar a las Tropas?",
+    "completion": "Un dato curioso sobre la Proclama de Bolívar a las Tropas es que fue tan inspiradora para los soldados que, según se cuenta, la cantaron como un himno mientras marchaban hacia el campo de batalla de Tarqui."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\nDescríbeme el Uniforme de Oficial de la Gran Colombia que se exhibe en la Sala 1.",
+    "completion": "El Uniforme de Oficial de la Gran Colombia, de la época de Independencia (circa 1829), es de color azul oscuro con galones dorados en los hombros. Se complementa con un tricornio negro con plumas blancas y un sable ceremonial con empuñadura de marfil. La chaqueta tiene bordados en hilo de oro con motivos patrióticos y se usaba con botas altas de cuero negro y guantes blancos, simbolizando la autoridad militar."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué elementos componen el Uniforme de Oficial de la Gran Colombia además de la chaqueta y el pantalón?",
+    "completion": "Además de la chaqueta y el pantalón, el Uniforme de Oficial de la Gran Colombia incluye un tricornio negro con plumas blancas, un sable ceremonial con empuñadura de marfil, botas altas de cuero negro y guantes blancos."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿De qué materiales está hecho principalmente el Uniforme de Oficial de la Gran Colombia?",
+    "completion": "El Uniforme de Oficial de la Gran Colombia está hecho principalmente de lana (chaqueta y pantalón), hilos dorados para los bordados, cuero (botas y tricornio), marfil para la empuñadura del sable, y plumas."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué simboliza el Uniforme de Oficial de la Gran Colombia?",
+    "completion": "El Uniforme de Oficial de la Gran Colombia simboliza el liderazgo militar durante las guerras de independencia, mostrando el estatus, la autoridad y la responsabilidad de los oficiales que dirigieron a las tropas hacia la victoria."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde se exhibe el Uniforme de Oficial de la Gran Colombia en la Sala 1?",
+    "completion": "El Uniforme de Oficial de la Gran Colombia se exhibe en la Vitrina 3, en la pared sur de la Sala 1, junto a un panel con citas de líderes militares."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Hay alguna anécdota sobre el Uniforme de Oficial de la Gran Colombia que se exhibe?",
+    "completion": "Sí, se cuenta que el Uniforme de Oficial de la Gran Colombia exhibido fue donado al museo en 1950 por un descendiente de un oficial. Este descendiente afirmó que su antepasado usó dicho uniforme durante la Batalla de Tarqui."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\nDescríbeme el Uniforme de Soldado Raso de la Gran Colombia que se muestra en la Sala 1.",
+    "completion": "El Uniforme de Soldado Raso de la Gran Colombia, de la época de Independencia (circa 1829), es un atuendo sencillo de lana gris. Incluye una gorra de campaña de tela, una mochila de cuero para provisiones y botas gastadas de cuero marrón. También lleva un cinturón con una pequeña bolsa para pólvora y balas, y un parche con el escudo de la Gran Colombia en la manga. Refleja las duras condiciones de los soldados comunes."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué elementos adicionales al traje llevaba un Soldado Raso de la Gran Colombia según el uniforme exhibido?",
+    "completion": "Según el uniforme exhibido, un Soldado Raso de la Gran Colombia llevaba, además del traje, una gorra de campaña de tela, una mochila de cuero, botas de cuero marrón y un cinturón con bolsa para municiones."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿De qué materiales está hecho principalmente el Uniforme de Soldado Raso?",
+    "completion": "El Uniforme de Soldado Raso está hecho principalmente de lana para la chaqueta y el pantalón, cuero para la mochila y las botas, y tela para la gorra."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué representa el Uniforme de Soldado Raso de la Gran Colombia?",
+    "completion": "El Uniforme de Soldado Raso de la Gran Colombia representa a los soldados comunes que formaron el grueso del ejército. Simboliza su lucha con recursos limitados pero con gran determinación por la independencia, y las duras condiciones que enfrentaron."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde puedo ver el Uniforme de Soldado Raso en la Sala 1?",
+    "completion": "El Uniforme de Soldado Raso de la Gran Colombia se exhibe en un maniquí ubicado junto a la entrada de la Sala 1, presentado en una pose de marcha."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es la anécdota asociada al Uniforme de Soldado Raso exhibido?",
+    "completion": "La anécdota asociada al Uniforme de Soldado Raso exhibido es que tiene una mancha que se cree es de sangre. Se presume que perteneció a un soldado herido durante la Batalla de Tarqui, convirtiéndolo en un testimonio directo del conflicto."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al context:\n¿Qué es el Chaleco de Caballería de Tarqui que se exhibe en la Sala 1?",
+    "completion": "El Chaleco de Caballería de Tarqui es una prenda militar de la época de Independencia (circa 1829), hecho de cuero marrón con refuerzos metálicos en el pecho. Era usado por los jinetes de caballería de la Gran Colombia. Incluye un cinturón ancho con hebillas de bronce y una funda para pistola, y está decorado con un bordado del escudo de la Gran Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué características distintivas tiene el Chaleco de Caballería de Tarqui?",
+    "completion": "El Chaleco de Caballería de Tarqui se distingue por estar hecho de cuero marrón, tener refuerzos metálicos en el pecho para protección, un cinturón ancho con hebillas de bronce, una funda para pistola y un bordado del escudo de la Gran Colombia. Su diseño permitía movilidad en combate a caballo."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿De qué materiales está hecho el Chaleco de Caballería de Tarqui?",
+    "completion": "El Chaleco de Caballería de Tarqui está hecho principalmente de cuero para el chaleco y el cinturón, metal para los refuerzos y las hebillas, e hilo para el bordado."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué importancia representa el Chaleco de Caballería de Tarqui?",
+    "completion": "El Chaleco de Caballería de Tarqui muestra la importancia de la caballería en la Batalla de Tarqui. Las cargas a caballo fueron clave para desorganizar las líneas enemigas, y este tipo de prenda ofrecía cierta protección y funcionalidad a los jinetes."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde se encuentra el Chaleco de Caballería de Tarqui en la Sala 1?",
+    "completion": "El Chaleco de Caballería de Tarqui se encuentra colgado en un soporte de madera en la pared norte de la Sala 1, junto a una ilustración que representa una carga de caballería."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Se conoce alguna historia particular sobre el Chaleco de Caballería de Tarqui exhibido?",
+    "completion": "Sí, se cuenta que el Chaleco de Caballería de Tarqui exhibido fue recuperado del campo de batalla de Tarqui en 1835 por un campesino local. Al parecer, lo usó como abrigo hasta que fue identificado como una pieza histórica."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué información se ofrece al visitante al entrar a la Sala 1 del museo?",
+    "completion": "Al entrar a la Sala 1, se da la bienvenida al visitante y se le informa que la sala está dedicada a la independencia de Ecuador y a la Batalla de Tarqui de 1829. Se le indica que a su derecha encontrará un retrato al óleo de Simón Bolívar, El Libertador."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué se puede observar en la Vitrina 1 de la Sala 1?",
+    "completion": "En la Vitrina 1 de la Sala 1 se puede observar la Carta durante la Campaña de Tarqui, un documento histórico escrito por Antonio José de Sucre en 1829, que ofrece una visión de sus estrategias y valores."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué elementos destacados se encuentran en el centro de la Sala 1?",
+    "completion": "En el centro de la Sala 1 se destacan dos elementos principales: el Uniforme de Granadero de Tarqui, usado por los soldados ecuatorianos en 1829, y una estatua de bronce de Antonio José de Sucre, comandante en la Batalla de Tarqui."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué documento importante se exhibe en el panel central de la Sala 1?",
+    "completion": "En el panel central de la Sala 1 se exhibe información sobre el Decreto de la Gran Colombia, emitido por Simón Bolívar en 1821. Este documento formalizó la unión de Venezuela, Colombia y Ecuador, reflejando el sueño unionista de Bolívar. (Nota: El ejemplo de JSON de muestra lo menciona como un documento conceptual, no un artefacto físico detallado)."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué se puede ver en la Vitrina 2 de la Sala 1?",
+    "completion": "En la Vitrina 2 de la Sala 1 se puede ver el Informe de la Batalla de Tarqui, escrito por Juan José Flores en 1829, donde detalla la victoria y aboga por la paz. (Nota: Tu JSON de muestra original ubicaba el Acuerdo de Girón en Vitrina 2 y el Informe en Vitrina 3. Seguiré la estructura de tu JSON de muestra para los artefactos detallados)."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué objeto se destaca en la pared norte de la Sala 1 relacionado con la caballería?",
+    "completion": "En la pared norte de la Sala 1 se destaca el Chaleco de Caballería de Tarqui, una prenda usada por los jinetes de la Gran Colombia, cuyo rol fue crucial en la batalla."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué se puede explorar en el panel interactivo de la pared sur de la Sala 1?",
+    "completion": "En el panel interactivo de la pared sur de la Sala 1 se puede explorar el Croquis de la Batalla de Tarqui, un mapa dibujado a mano que muestra las posiciones de las tropas. El panel incluye una lupa digital para ver detalles."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿En qué año se fundó el Museo Militar de Cuenca según la información de la Sala 1?",
+    "completion": "Según la información contextual de la Sala 1, el Museo Militar de Cuenca fue fundado en el año 1975."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Dónde está ubicado el Museo Militar de Cuenca?",
+    "completion": "El Museo Militar está ubicado en la ciudad de Cuenca, Ecuador. Para detalles más específicos de la dirección, se recomienda consultar las guías del museo o su información oficial."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuáles son los horarios de atención del Museo Militar de Cuenca según la información de la Sala 1?",
+    "completion": "La Sala 1 indica que el museo tiene horarios de atención al público. Para conocer los horarios exactos de apertura y cierre, es mejor consultar directamente con el museo o sus canales oficiales, ya que pueden variar."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué importancia tuvo la Batalla de Tarqui para la soberanía de la Gran Colombia?",
+    "completion": "La Batalla de Tarqui fue crucial para la soberanía de la Gran Colombia, ya que la victoria de sus fuerzas impidió la invasión peruana y reafirmó el control grancolombiano sobre los territorios del sur, incluyendo el actual Ecuador."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Podrías mencionar algunos comandantes destacados de la Gran Colombia en la Batalla de Tarqui además de Sucre y Flores?",
+    "completion": "Además de Antonio José de Sucre y Juan José Flores, otros comandantes destacados de la Gran Colombia en la Batalla de Tarqui incluyeron a Daniel O'Leary, José María Sáenz, José María Camacaro, Arthur Sandes, Isidoro Barriga, Tomás de Heres, Luis Urdaneta, León de Febres Cordero y Oberto, Antonio de la Guerra y Vicente González."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién fue Daniel O'Leary y cuál fue su rol en Tarqui?",
+    "completion": "Daniel Florencio O'Leary fue un militar y diplomático irlandés, edecán de Simón Bolívar. En la Batalla de Tarqui, actuó como aide-de-camp (ayudante de campo) de Sucre, sirviendo como intermediario entre el mando y las tropas de la Gran Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué rol cumplió José María Sáenz en la Batalla de Tarqui?",
+    "completion": "José María Sáenz del Campo fue un militar y político ecuatoriano. En la Batalla de Tarqui, fue un oficial destacado por su valentía, participando en la primera línea de combate del lado de la Gran Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue la contribución de León de Febres Cordero y Oberto en la Batalla de Tarqui?",
+    "completion": "León de Febres Cordero y Oberto, un destacado militar venezolano que también jugó un papel clave en la independencia de Guayaquil, participó en la Batalla de Tarqui como oficial de la Gran Colombia, contribuyendo al liderazgo de las tropas."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién fue José de La Mar y qué papel tuvo en la Batalla de Tarqui?",
+    "completion": "José Domingo de la Mar y Cortázar fue un militar y político nacido en Cuenca (entonces Virreinato del Perú). En la Batalla de Tarqui, fue el Presidente del Perú y el comandante general del ejército peruano que se enfrentó a las fuerzas de la Gran Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Quién fue Agustín Gamarra y cuál fue su participación en Tarqui?",
+    "completion": "Agustín Gamarra Messía fue un militar y político peruano. En la Batalla de Tarqui, participó como comandante de campo del ejército peruano, liderando unidades de infantería en el ataque contra las posiciones grancolombianas."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué primera bandera de Ecuador diseñó José Joaquín de Olmedo?",
+    "completion": "La primera bandera de Ecuador a la que te refieres, diseñada por José Joaquín de Olmedo tras la Revolución del 9 de Octubre de 1820, fue la de la Provincia Libre de Guayaquil. Esta bandera era blanca con cinco franjas horizontales celestes, y tres estrellas blancas en la franja central."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Se menciona el Tratado de Girón en la Sala 1?",
+    "completion": "Sí, el Acuerdo de Girón (a veces también referido como Tratado de Girón en un sentido más amplio o como precursor del Tratado de Guayaquil) es un documento clave que se menciona y cuya información se exhibe en la Sala 1, específicamente en la Vitrina 2. Este acuerdo fue firmado tras la Batalla de Tarqui."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál era el objetivo principal de la Guerra Gran Colombo-Peruana?",
+    "completion": "La Guerra Gran Colombo-Peruana (1828-1829) tuvo como objetivo principal la resolución de disputas territoriales entre ambas naciones, particularmente sobre las provincias de Tumbes, Jaén y Maynas, además de tensiones políticas y la ocupación peruana de Guayaquil y Loja."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué tácticas militares empleó Sucre en la Batalla de Tarqui según la Carta durante la Campaña de Tarqui?",
+    "completion": "Según la Carta durante la Campaña de Tarqui, Sucre menciona estrategias como la formación en cuadro para resistir cargas de caballería, lo que sugiere un enfoque en la disciplina táctica y la adaptabilidad defensiva."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cómo describe Juan José Flores la victoria en Tarqui en su informe?",
+    "completion": "En su informe, Juan José Flores describe la victoria en Tarqui detallando las maniobras militares que llevaron al triunfo, como el uso del terreno elevado para emboscar al enemigo, y elogia la valentía de los soldados ecuatorianos. También menciona la captura de oficiales peruanos."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué representaba el escudo de la Gran Colombia visible en los uniformes?",
+    "completion": "El escudo de la Gran Colombia, visible en uniformes como el del Granadero de Tarqui, típicamente incluía elementos como cornucopias, un istmo (representando a Panamá), y a menudo el lema 'Libertad y Orden'. Simbolizaba la unión, la riqueza y los ideales de la nueva república."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue el impacto de la muerte de Sucre en la Gran Colombia?",
+    "completion": "El asesinato de Antonio José de Sucre en 1830 fue un golpe devastador para la Gran Colombia. Sucre era visto como un posible sucesor de Bolívar y un pilar de la unidad. Su muerte exacerbó las tensiones políticas y contribuyó a la ya avanzada desintegración de la Gran Colombia."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Por qué Bolívar enfatizaba la importancia de Guayaquil en su Proclama a las Tropas?",
+    "completion": "Simón Bolívar enfatizaba la importancia de Guayaquil en su Proclama a las Tropas debido a su valor como puerto estratégico fundamental para la Gran Colombia, tanto militar como económicamente. Su control era vital para la defensa y el comercio de la región."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué tipo de liderazgo ejerció Sucre en la Batalla de Tarqui, según los documentos de la Sala 1?",
+    "completion": "Según los documentos de la Sala 1, como su Carta durante la Campaña, Sucre ejerció un liderazgo estratégico, enfocado en la disciplina, el bienestar de sus tropas, el respeto a los civiles, y la planificación táctica detallada, además de una firme defensa de la soberanía."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cómo se relaciona la Batalla de Ayacucho con Antonio José de Sucre?",
+    "completion": "La Batalla de Ayacucho, librada en 1824, fue una victoria decisiva comandada por Antonio José de Sucre que selló la independencia del Perú y de gran parte de Sudamérica del dominio español. Este triunfo le valió el título de 'Gran Mariscal de Ayacucho'."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue la actitud de Juan José Flores hacia la paz después de la Batalla de Tarqui, según su informe?",
+    "completion": "Según su informe, a pesar de la contundente victoria, Juan José Flores mostró una actitud favorable hacia la paz, expresando la necesidad de negociar para evitar más conflictos y no dejarse cegar por el triunfo militar."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué desafío representó la geografía de Tarqui para los combatientes?",
+    "completion": "La geografía del Portete de Tarqui, con su terreno irregular, colinas y posibles pasos estrechos, representó un desafío táctico para ambos ejércitos. El control de las alturas y el conocimiento del terreno fueron cruciales, como lo demuestra el uso de la colina oeste por los granaderos, mencionado en el Croquis."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cómo influyó la experiencia de los comandantes de la Gran Colombia en el resultado de Tarqui?",
+    "completion": "La vasta experiencia militar de comandantes como Sucre y Flores, forjada en numerosas campañas de independencia a lo largo de Sudamérica, fue un factor determinante en la Batalla de Tarqui. Su capacidad estratégica, liderazgo y conocimiento táctico superaron a los del mando peruano en este enfrentamiento."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál fue el papel de la caballería de la Gran Colombia en la Batalla de Tarqui según los objetos de la Sala 1?",
+    "completion": "Según objetos como el Chaleco de Caballería y las descripciones asociadas, la caballería de la Gran Colombia jugó un papel crucial en la Batalla de Tarqui, realizando cargas efectivas que ayudaron a desorganizar las formaciones enemigas y contribuyeron a la victoria."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Reflejan los uniformes exhibidos en la Sala 1 las diferencias jerárquicas en el ejército de la Gran Colombia?",
+    "completion": "Sí, los uniformes exhibidos en la Sala 1 reflejan claramente las diferencias jerárquicas. El Uniforme de Oficial es ornamentado, con galones dorados y sable ceremonial, mientras que el Uniforme de Soldado Raso es mucho más sencillo y funcional, y el de Granadero, una unidad de élite, tiene elementos distintivos pero sigue siendo de tropa."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué nos dice la existencia de un Croquis de la Batalla de Tarqui sobre la planificación militar de la época?",
+    "completion": "La existencia del Croquis de la Batalla de Tarqui nos dice que, incluso en esa época, la planificación militar implicaba un estudio del terreno, la disposición de las tropas y la identificación de puntos estratégicos y vulnerabilidades enemigas, elementos esenciales para la conducción de la batalla."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál era la situación política de la Gran Colombia en el momento de la Batalla de Tarqui?",
+    "completion": "En el momento de la Batalla de Tarqui (1829), la Gran Colombia, aunque victoriosa en el campo militar, ya enfrentaba serias tensiones internas y divisiones políticas entre sus diferentes regiones y líderes, lo que eventualmente llevaría a su disolución en 1830-1831."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué tipo de armamento utilizaban los soldados en la Batalla de Tarqui, inferido de los uniformes y el contexto?",
+    "completion": "Aunque la Sala 1 se centra en uniformes y documentos, se puede inferir que los soldados en la Batalla de Tarqui utilizaban principalmente mosquetes de chispa, bayonetas, sables (especialmente la oficialidad y caballería) y lanzas (caballería). La mención de una 'bolsa para pólvora y balas' en el uniforme del soldado raso lo confirma."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cómo se conmemora la Batalla de Tarqui en la actualidad en Ecuador, además del día festivo?",
+    "completion": "Además del día festivo (Día del Ejército, Civismo y Unidad Nacional), la Batalla de Tarqui se conmemora a través de monumentos, nombres de calles y plazas, ceremonias cívico-militares, y por supuesto, en museos como este, que preservan y difunden su historia y significado."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Cuál es la conexión entre la independencia de Guayaquil y la Batalla de Pichincha?",
+    "completion": "La independencia de Guayaquil el 9 de octubre de 1820 creó una base de operaciones y un gobierno patriota (la Provincia Libre de Guayaquil) que organizó ejércitos y solicitó apoyo a Bolívar y San Martín. Las fuerzas guayaquileñas, reforzadas por las tropas enviadas por Bolívar bajo el mando de Sucre, fueron las que finalmente lograron la victoria en la Batalla de Pichincha, consolidando la independencia de todo el territorio."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Por qué la 'disciplina' era tan importante para Sucre según su Carta durante la Campaña de Tarqui?",
+    "completion": "Según su Carta, Sucre consideraba la disciplina como 'la mayor fuerza' de un ejército, comparándola con su 'alma'. Una tropa disciplinada es más efectiva en combate, mantiene la cohesión, sigue las órdenes con precisión y es menos propensa a cometer desmanes contra la población civil, lo cual era una preocupación para Sucre."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué nos enseña la anécdota del Chaleco de Caballería sobre la relación entre los objetos históricos y la población local?",
+    "completion": "La anécdota del Chaleco de Caballería, recuperado y usado por un campesino, nos enseña que los objetos históricos pueden tener una 'vida' después de su uso original, y que a veces la población local ha sido custodio involuntario de estas piezas antes de que sean reconocidas por su valor patrimonial."
+  },
+  {
+    "sala": "1",
+    "prompt": "### Instrucción: Eres un asistente del Museo Militar Ecuatoriano en Cuenca, especializado en Sala 1, dedicada a la Batalla de Tarqui y la independencia de Ecuador. Responde la siguiente pregunta con precisión, usando solo información relevante al contexto:\n¿Qué buscaba el Perú con la invasión que llevó a la Batalla de Tarqui?",
+    "completion": "El Perú, bajo el gobierno de José de La Mar, buscaba principalmente reivindicar territorios que consideraba suyos, incluyendo Tumbes, Jaén y Maynas, y también existía un interés en controlar Guayaquil. La invasión fue el punto culminante de una serie de tensiones y disputas fronterizas con la Gran Colombia."
+  }
+]
