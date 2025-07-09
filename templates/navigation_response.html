@@ -1,0 +1,5 @@
+<script>
+    console.log('Sending message:', '{{ command }}', 'to origin:', 'http://10.40.21.232:8000');
+    window.parent.postMessage('{{ command }}', 'http://10.40.21.232:8000');
+    // For Meta Quest 2: window.parent.postMessage('{{ command }}', 'http://192.168.100.57:8000');
+</script>
