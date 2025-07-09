@@ -1,7 +1,7 @@
 import requests
 import os
 
-API_KEY = "sk_363f8b94f74a94231a9dd090f67569401cfc2e533d04b142"  # Reemplaza con tu clave
+API_KEY = ""  # Reemplaza con tu clave
 VOICE_MODEL = "eleven_multilingual_v2"
 VOICE_ID = "pNInz6obpgDQGcFmaJgB"
 TEXT = "Hola. Bienvenidos al Museo Militar de la Tercera División Tarqui en Cuenca. Aquí exploramos nuestra rica historia militar ecuatoriana. En nuestras cinco salas temáticas encontrarás objetos únicos como retratos de Simón Bolívar y Antonio José de Sucre en la Sala 1, estandartes capturados en la Sala 3, y equipamiento de la Guerra del Cenepa en la Sala 4. Presta atención a las zonas activas para descubrir detalles fascinantes. Esperamos que este recorrido virtual te encante. Di 'hey asistente' y usa comandos como 'llévanos a la sala 1' o 'qué información sobre la sala 2' para guiarte."
