@@ -15,7 +15,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 ELEVENLABS_API_KEY = os.getenv("ELEVENLABS_API_KEY")
 
 app = Flask(__name__, static_folder='static')
-CORS(app, resources={r"/chat": {"origins": ["http://localhost:8000", "http://10.40.21.232:8000", "http://192.168.100.57:8000", "https://192.168.100.67:63747", "https://172.20.10.2:63747"]}})  # Expanded origins
+CORS(app, resources={r"/chat": {"origins": ["http://localhost:8000", "http://10.40.21.232:8000", "http://192.168.100.57:8000", "https://192.168.100.67:63747", "https://172.20.10.2:63747", "*"]}})  # Expanded origins
 
 # Crear carpeta static si no existe
 os.makedirs("static", exist_ok=True)
@@ -242,7 +242,7 @@ if __name__ == "__main__":
         context = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
         context.load_cert_chain(certfile="certs/cert.pem", keyfile="certs/key.pem")
         print("SSL context loaded successfully")
-        app.run(host='0.0.0.0', port=5000, ssl_context=context, debug=True)
+        app.run(host='0.0.0.0', port=5000, debug=False)
     except Exception as e:
         print(f"Error loading SSL context: {e}")
         raise
